@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on El Jordi es el puto Amo!</title>
+    <link>https://JordiBeCo.github.io/posts/</link>
+    <description>Recent content in Posts on El Jordi es el puto Amo!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Apr 2018 18:28:52 +0200</lastBuildDate>
+    
+	<atom:link href="https://JordiBeCo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mi Primer Post</title>
+      <link>https://JordiBeCo.github.io/posts/mi-primer-post/</link>
+      <pubDate>Fri, 06 Apr 2018 18:28:52 +0200</pubDate>
+      
+      <guid>https://JordiBeCo.github.io/posts/mi-primer-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
